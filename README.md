@@ -191,3 +191,13 @@ Link: <https://api.github.com/resource?page=2>; rel="next",
   }
 ]
 https://github.com/477447/-xxx.git
+GET /users/:username/keys
+Status: 200 OK
+Link: <https://api.github.com/resource?page=2>; rel="next",
+      <https://api.github.com/resource?page=5>; rel="last"
+[
+  {
+    "id": 1,
+    "key": "ssh-rsa AAA..."
+  }
+]
