@@ -201,3 +201,5 @@ Link: <https://api.github.com/resource?page=2>; rel="next",
     "key": "ssh-rsa AAA..."
   }
 ]
+Accept
+application/vnd.github.hellcat-preview+json
