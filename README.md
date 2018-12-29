@@ -203,3 +203,5 @@ Link: <https://api.github.com/resource?page=2>; rel="next",
 ]
 Accept
 application/vnd.github.hellcat-preview+json
+Accept
+application/vnd.github.hellcat-preview+json
