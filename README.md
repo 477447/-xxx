@@ -205,3 +205,10 @@ Accept
 application/vnd.github.hellcat-preview+json
 Accept
 application/vnd.github.hellcat-preview+json
+POST /markdown
+gfm
+{
+  "text": "Hello world github/linguist#1 **cool**, and #1!",
+  "mode": "gfm",
+  "context": "github/gollum"
+  
