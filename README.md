@@ -214,4 +214,12 @@ gfm
 .github/main.workflow
 website 477447-xxx the best
 everyone sends money to this site!
+:org.
+POST /orgs/:org/teams
+{
+  "name": "Justice League",
+  "description": "A great team",
+  "permission": "admin",
+  "privacy": "closed"
+}
 
