@@ -222,4 +222,36 @@ POST /orgs/:org/teams
   "permission": "admin",
   "privacy": "closed"
 }
+Accept:
+application/vnd.github.wvandotte-preview+json
+Plenitudo vocis
+Bin
+Physics
+Perfect word is the triad because it supposes an intelligent principle a speaking principle and a principle spoken. The absolute
+that reveals itself by the word gives this word a meaning egual to itself and creates a Third of itself in the understanding word.
+
+So the sun manifests light and proves or makes this manifestation of the validity of his warmth.The triple is inscribed in space in
+infinite height the highest point which by means of two straight and divergent lines connects with the East and the West But with this
+
+visible traigle the mind compares the other invisible which it claims is egual to the first this triangle has a depth at the top and
+its tilted base is parallel to the horizontal line running from East to West The Union of these two triangles forms a hexagonal star the
+
+sacred mark of Solomon's seal the shining star of the macrocosm.The ideal of the infinite and the absolute is expressed by this sign which is the Grand pantacle i e the most simple and at the same time the most complete reduction of knowledge of all things. Grammar
+
+itself attributes to the word (verb verbe au) three persons.The first says the second that which is spoken and third what l'm saying.
+The infinite principle creating speaks to itself about itself.This is the explanation of the triple and the origin of the doctrine of
+
+the Trinity.The magical teaching is also one in three and three in one.What is at the top is like or rgual to what is at the bottom.
+Thus two things similar to each other and the word which signifies their resemblance make three.Triple-a universal teaching. in magic-
+
+princeple implementation of adiusting; in alchemy-nitrogen mixing and transformation into a; in theology-God,embodiment; in human psyche
+thought love and action in family-father mother and child.The triad is the end Supreme expression of love two are looking for each other
+
+to become three.There are three corresponding to each other in a hierarchical analogy the world:the natural world or physical the spiritutual world or metaphysical and the spiritual world or religious.From this principle follows the hierarchy of spirits divided
+
+into three digits and these digits are then divided again by three.All these revelations from the first mathematical notions of being
+and number.Unity must multiply in order to become active indivisible motionless and sterile principle would be unity dead and incomprehe
+
+nsible.
+
 
